@@ -1,3 +1,3 @@
-Bark
-text-to-audio
+# Bark
+
 https://github.com/suno-ai/bark
